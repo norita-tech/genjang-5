@@ -45,3 +45,15 @@ Target Variable: Outcome (1 = Diabetes, 0 = No Diabetes)
 - Outcome: Class variable (0 or 1)
 
   **See Codes and conclusion on the project**
+
+  
+ # To open the full project: 
+- click on the project file(Abschlusprojekt) to open the project, 
+ 
+- click on the more edit options ie the arrow pointing down beside the raw button.
+ 
+- Under open with, select Github Desktop
+ 
+
+- Select view the file of your repository in Explorer.
+  
